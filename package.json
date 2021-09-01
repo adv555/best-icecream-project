@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Anastasiia-Kisil.github.io/best-icecream",
+  "homepage": "https://adv555.github.io/best-icecream-project",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /best-icecream/"
+    "build": "parcel build src/*.html --public-url /best-icecream-project/"
   },
   "repository": {
     "type": "git",
